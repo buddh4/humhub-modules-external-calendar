@@ -1,5 +1,8 @@
 Changelog
-=========
+
+v.1.13 (Unreleased)
+----------------------
+- Enh: Validation added for better understanding
 
 v1.1.12 (September 15, 2020)
 ----------------------
@@ -106,4 +109,3 @@ v0.1.3
 v0.1.2
 ----------------------
 - First stable release
-
